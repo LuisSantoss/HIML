@@ -18,7 +18,7 @@ Na seção 3, os arquivos .txt são lidos, sem a necessidade de rodar as seçõe
  <br />
 1. Leitura e tratamento de dados de entrada referentes a casos de falha: <br />
  <br />
-Leitura de arquivos .csv da classe 4 do dataset 3W, e extração de características usando <br />
+        Leitura de arquivos .csv da classe 4 do dataset 3W, e extração de características usando <br />
 rolling window e tsfresh. (~4h de duração) <br />
  <br />
 2. Leitura e tratamento de dados de entrada referentes a casos nominais: <br />
